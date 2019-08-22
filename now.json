@@ -1,0 +1,15 @@
+{
+  "name": "madrid-passing-chord",
+  "type": "static",
+  "build": {
+    "env": {
+      "BUNDLER": "Parcel"
+    }
+  },
+  "scale": {
+    "sfo1": {
+      "min": 1,
+      "max": "auto"
+    }
+  }
+}
